@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-21T19:19:15Z</dc:date>
+		<meta property="dcterms:modified">2024-10-21T19:19:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,16 +45,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
-		<dc:description id="description">Journeys, times, and cultures collide as two safaris seek the riches of known and fabeled lands.</dc:description>
+		<dc:description id="description">Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Lord &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; makes it his job to know who comes and goes from his jungle. James Blake and Wilbur Stimbol’s safari and Ibn Jad’s troupe are no exception. Blake and Stimbol, on safari for photographs, are on the verge of parting ways after vehement disagreement; Ibn Jad’s people are searching for the fabled city of Nimmir, yearning for its riches. Allowing passage to some and not to others, Tarzan gains new enemies and new friends as the different parties seek their treasures among the wilds of his jungle—a beautiful jungle, but one fraught with danger from men, beasts, and the elements. Tensions, greed, and passions run high as those welcome and unwelcome trod upon Tarzan’s land, desperate to survive and find the treasures they seek. Is there such a city filled with gold, jewels, and the most beautiful woman on earth, or have these explorers just walked into a death trap with the lord of the jungle as the mastermind?&lt;/p&gt;
-			&lt;p&gt;This book marks a significant transition from previous novels in the series. Whereas earlier books interwove personal affairs and continuity, from this book on, Tarzan is presented as an adventurer with no significant ties. Although previous characters still put in minor appearances, the books shift from Tarzan’s active role in his family to him supporting a secondary cast of characters; from his personal affairs to contending with a new tribe or civilization.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/tarzan"&gt;Lord Tarzan&lt;/a&gt; makes it his job to know who comes and goes in his jungle; James Blake and Wilbur Stimbol’s safari and Ibn Jad’s troupe are no exception. Blake and Stimbol, on safari for photographs, are on the verge of parting ways after vehement disagreement, while Ibn Jad’s people are searching for the fabled city of Nimmir, yearning for its riches. Allowing passage to some and not to others, Tarzan gains new enemies and new friends as the different parties seek their treasures among the wilds of his jungle—a beautiful jungle, but one fraught with danger from men, beasts, and the elements.&lt;/p&gt;
+			&lt;p&gt;Tensions, greed, and passions run high as those welcome and unwelcome trod upon Tarzan’s land, desperate to survive and find the treasures they seek. Is there such a city filled with gold, jewels, and the most beautiful woman on earth, or have these explorers just walked into a death trap with the lord of the jungle as the mastermind?&lt;/p&gt;
+			&lt;p&gt;This book marks a significant transition from previous novels in the series. Whereas earlier books interwove personal affairs and continuity, from this book on, Tarzan is presented as an adventurer with no significant ties. Although previous characters still put in minor appearances, the books shift from Tarzan’s active role in his family to him supporting a secondary cast of characters, and from his own personal affairs to contending with new tribes and civilizations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72938</dc:source>
 		<dc:source>https://archive.org/details/tarzan-lord-of-the-jungle</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70454</meta>
+		<meta property="se:reading-ease.flesch">78.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan,_Lord_of_the_Jungle_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-lord-of-the-jungle</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -86,6 +87,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
