@@ -48,7 +48,7 @@
 		<dc:description id="description">Journeys, times, and cultures collide as two safaris seek the riches of known and fabeled lands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Lord &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; makes it his job to know who comes and goes from his jungle. James Blake and Wilbur Stimbol’s safari and Ibn Jad’s troupe are no exception. Blake and Stimbol, on safari for photographs, are on the verge of parting ways after vehement disagreement; Ibn Jad’s people are searching for the fabled city of Nimmir, yearning for its riches. Allowing passage to some and not to others, Tarzan gains new enemies and new friends as the different parties seek their treasures among the wilds of his jungle—a beautiful jungle, but one fraught with danger from men, beasts, and the elements. Tensions, greed, and passions run high as those welcome and unwelcome trod upon Tarzan’s land, desperate to survive and find the treasures they seek. Is there such a city filled with gold, jewels, and the most beautiful woman on earth, or have these explorers just walked into a death trap with the lord of the jungle as the mastermind?&lt;/p&gt;
-			&lt;p&gt;This book marks a significant transition from previous novels. Whereas books prior interwove personal affairs and continuity, from this book on, Tarzan is presented as an adventurer with no significant ties. Although previous characters still put in minor appearances, the books shift from Tarzan’s active role in his family to him supporting a secondary cast of characters; from his personal affairs to contending with a new tribe or civilization.&lt;/p&gt;
+			&lt;p&gt;This book marks a significant transition from previous novels in the series. Whereas earlier books interwove personal affairs and continuity, from this book on, Tarzan is presented as an adventurer with no significant ties. Although previous characters still put in minor appearances, the books shift from Tarzan’s active role in his family to him supporting a secondary cast of characters; from his personal affairs to contending with a new tribe or civilization.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72938</dc:source>
@@ -63,8 +63,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
-		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
 		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
+		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
