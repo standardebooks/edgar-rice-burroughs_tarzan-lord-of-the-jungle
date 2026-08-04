@@ -47,7 +47,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
-		<dc:abstract>Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.</dc:abstract>
+		<meta property="schema:abstract">Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/tarzan"&gt;Lord Tarzan&lt;/a&gt; makes it his job to know who comes and goes in his jungle; James Blake and Wilbur Stimbol’s safari and Ibn Jad’s troupe are no exception. Blake and Stimbol, on safari for photographs, are on the verge of parting ways after vehement disagreement, while Ibn Jad’s people are searching for the fabled city of Nimmir, yearning for its riches. Allowing passage to some and not to others, Tarzan gains new enemies and new friends as the different parties seek their treasures among the wilds of his jungle—a beautiful jungle, but one fraught with danger from men, beasts, and the elements.&lt;/p&gt;
 			&lt;p&gt;Tensions, greed, and passions run high as those welcome and unwelcome trod upon Tarzan’s land, desperate to survive and find the treasures they seek. Is there such a city filled with gold, jewels, and the most beautiful woman on earth, or have these explorers just walked into a death trap with the lord of the jungle as the mastermind?&lt;/p&gt;
